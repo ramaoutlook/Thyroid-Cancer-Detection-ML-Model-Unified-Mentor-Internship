@@ -8,7 +8,8 @@ Thyroid cancer is a common endocrine malignancy. Predicting its recurrence is cr
 
 ## Dataset
 
-The project uses the `thyroid_cancer_data.csv` dataset. It contains information about patients, including age, gender, smoking status, risk level, cancer stage, and a target variable indicating whether the cancer recurred (`Recurred`).
+The project uses the `thyroid_cancer_data.csv` dataset provided by Unified Mentor for Internship purpose link is below given. It contains information about patients, including age, gender, smoking status, risk level, cancer stage, and a target variable indicating whether the cancer recurred (`Recurred`).
+Data set link from my google drive : https://drive.google.com/file/d/13N0DlDL55wp5eV-m50jAOS4Vcuyq-Mhq/view?usp=drive_link
 
 ## Analysis and Methodology
 
